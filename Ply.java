@@ -1,5 +1,3 @@
-package hackclubchess;
-
 // A MOVE in chess is both white and black taking their turns
 // A Ply is a half-move, either white or black taking their turn
 public class Ply {
